@@ -7,11 +7,13 @@
     </head>
     <body>
         <div class="container">
-            <div class="divsearch">
+            <div class="searchbox">
                 <input type="text" name="search" placeholder="Search..." size="40">
                 <input type="button" value="Search">
             </div>
-            <hr>
+            <div class="content">
+                <p>hola soy la caja</p>
+            </div>
         </div>  
     </body>
 </html>

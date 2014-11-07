@@ -2,9 +2,13 @@
 Province-app
 */
 
-.divsearch {
+.searchbox {
     width: auto;
     height: auto;
     margin: 10px auto;
     text-align: center;
+}
+
+.content {
+    border-top: 1px #000 solid;
 }
