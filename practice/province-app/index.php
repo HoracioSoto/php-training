@@ -8,11 +8,20 @@
     <body>
         <div class="container">
             <div class="searchbox">
-                <input type="text" name="search" placeholder="Search..." size="40">
+                <input type="text" name="search" placeholder="Search..." id="inputsearch">
                 <input type="button" value="Search">
             </div>
             <div class="content">
-                <p>hola soy la caja</p>
+                <div class="provinces">
+                    <ul>
+                        <li>Lista</li>
+                    </ul>
+                </div>
+                <div class="cities">
+                    <ul>
+                        <li>cities</li>
+                    </ul>
+                </div>
             </div>
         </div>  
     </body>

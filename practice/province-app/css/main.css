@@ -1,14 +1,18 @@
-/*
-Province-app
-*/
-
+/* Province-app */
 .searchbox {
     width: auto;
     height: auto;
-    margin: 10px auto;
     text-align: center;
+    border-bottom: 1px #000 solid;
+    padding-bottom: 10px;
 }
 
+#inputsearch {
+    width: 200px;
+}
 .content {
-    border-top: 1px #000 solid;
+    text-align: center;
+}
+.cities, .provinces {
+    display: inline-block;
 }
