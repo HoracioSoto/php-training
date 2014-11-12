@@ -1,6 +1,6 @@
 <?php
 // src/Province.php
-
+use Doctrine\Common\Collections\ArrayCollection;
 /**
  * @Entity @Table(name="provinces")
  **/
@@ -35,6 +35,10 @@ class Province
     {
         return $this->name;
     }
-
+    
+    public function addCity(City $city)
+    {
+        $this->cities->add($city);
+    }
 }
 ?>

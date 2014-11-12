@@ -7,19 +7,19 @@
 class City
 {
     /** @Id @Column(type="integer") @GeneratedValue **/
-    public $id;
+    protected $id;
     
     /** @Column(type="string") **/
-    public $name;
+    protected $name;
     
     /** @Column(type="integer") **/
-    public $pc;
+    protected $pc;
     
     /**
      * @ManyToOne(targetEntity="Province", inversedBy="cities")
      * @JoinColumn(name="province_id", referencedColumnName="id")
      **/
-    public $province;
+    protected $province;
         
     public function getId()
     {
@@ -46,6 +46,9 @@ class City
         return $this->pc;
     }
     
+    public function setProvince(Province $province){
+        $this->province = $province;
+    }
 }
 ?>
 
