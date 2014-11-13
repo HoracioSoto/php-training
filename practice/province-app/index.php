@@ -3,13 +3,13 @@
     <head>
         <title>Province App - Informatorio 2014</title>
         <link rel="stylesheet" type="text/css" href="css/main.css">
-        <!-- <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script> -->
+        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
     </head>
     <body>
         <div class="container">
             <div class="searchbox">
-                <input type="text" name="search" placeholder="Search..." id="inputsearch">
-                <input type="button" value="Search">
+                <input type="text" name="inputsearch" placeholder="Search..." id="inputsearch">
+                <input type="button" id="searchbuton" value="Search">
             </div>
             <div class="content">
                 <div class="provinces">
@@ -23,6 +23,7 @@
                     </ul>
                 </div>
             </div>
-        </div>  
+        </div>
+        <script type="text/javascript" src="js/main.js"></script>
     </body>
 </html>
