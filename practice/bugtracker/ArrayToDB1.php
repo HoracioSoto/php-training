@@ -11,6 +11,7 @@ foreach ($provinces as $province => $cities) {
         $cityEntity = new City();
         $cityEntity->setName($city);
         $cityEntity->setPc(1);
+        $cityEntity->setProvince($provinceEntity);
         $entityManager->persist($cityEntity);
         $provinceEntity->addCity($cityEntity);
     }

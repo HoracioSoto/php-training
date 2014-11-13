@@ -19,7 +19,7 @@ class City
      * @ManyToOne(targetEntity="Province", inversedBy="cities")
      * @JoinColumn(name="province_id", referencedColumnName="id")
      **/
-    protected $province;
+    private $province;
         
     public function getId()
     {

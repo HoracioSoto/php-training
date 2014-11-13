@@ -36,7 +36,7 @@ function fileToArray($file)
         if (substr($line, 0, 4) == '    ') {
             $provinces[$province][] = $line;
         } else {
-            $province = $line;
+            $province = trim($line);
             $provinces[$province] = array();
         }
     }
