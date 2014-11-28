@@ -1,29 +1,38 @@
+/* Bootstrap */
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css");
+
 /* Province-app */
 body{
-    text-align: center;
+    margin-top: 10px;
+}
+.container {
+    width: auto;
 }
 .searchbox {
     width: auto;
     height: auto;
-    text-align: center;
     border-bottom: 1px #000 solid;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 #inputsearch {
     width: 200px;
 }
 .content {
-    text-align: center;
-
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .cities, .provinces {
-    position: relative;
     float: left;
-    width: 200px;
+    width: 400px;
     min-height: 100px;
-    background: #31b0d5;
 }
-h2 {
-    font-family: sans-serif;
+h3 {
+    text-align: center;
+}
+button {
+    text-align: center;
 }

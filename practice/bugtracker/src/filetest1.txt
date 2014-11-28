@@ -2,28 +2,180 @@ Chaco
     Resistencia
     Saenz Peña
     Barranqueras
+    Villa Ángela
+    San Martín
+    Castelli
+    Charata
+    Quitilipi
+    Las Breñas
+    Machagai
+    Tres Isletas
+    La Leonesa
+    General Pinedo
 Corrientes
+    Bella Vista
+    Berón de Astrada
     Corrientes
-    Paso de la Patria
-    Itati
+    Concepción
+    Curuzú Cuatiá
+    Empedrado
+    Esquina
+    General
+    General Paz
+    Goya
+    Itatí
+    Ituzaingó
+    Lavalle
+    Mburucuyá
     Mercedes
+    Monte Caseros
+    Paso de los Libres
+    Saladas
+    San Cosme
+    San Luis del Palmar
+    San Martín
+    San Miguel
+    San Roque
+    Santo Tomé
+    Sauce
 Formosa
     Formosa
     Clorinda
     Laguna Blanca
+    Bermejo
+    Laishi
+    Matacos
+    Patiños
+    Pirané
 Misiones
     Posadas
-    Rio Iguazu
+    Apóstoles
+    Cainguás
+    Candelaria
+    Concepción
+    El dorado
+    Iguazú
+    Leandro N. Alem
+    Puerto Rico
+    Montecarlo
+    Oberá
+    San Ignacio
+    San Javier
+    San Pedro
+    25 de Mayo
 Cordoba
-    Cordoba
-    Jesus Maria
-    Villa Maria
-    Rio Cuarto
+    Calamuchita
+    Córdoba
+    Colón
+    Cruz del Eje
+    General Roca
+    Villa María
+    Ischilín
+    Juárez Celman
+    Marcos Juárez
+    Minas
+    Pocho
+    Cosquín
+    Río Cuarto
+    Río Primer
+    Villa de María
+    Río Segundo
+    San Alberto
+    San Javier
+    San Justo
+    Santa María
 Santa Fe
-    Santa Fe
     Rosario
-    Reconquista
+    Santa Fe
+    General López
+    Castellanos
+    General Obligado
+    San Lorenzo
+    Las Colonias
+    Constitución
+    Caseros
+    San Jerónimo
+    San Cristóbal
+    Iriondo
+    San Martín
+    Vera
+    Belgrano
+    San Justo
+    San Javier
+    9 de Julio
+    Garay
 Salta
     Salta
+    La Candelaria
+    La Candela
+    Cafayate
+    Guemes
 Santa Cruz
+    Río Gallegos
+    Caleta Olivia
+    El Calafate
+    Río Turbio
+    Gobernador Gregores
+    Puerto Deseado
+San Juan
+San Luis
+    Ayacucho
+    Belgrano
+    Chacabuco
+    Coronel Pringles
+    General Pedernera
+    Gobernador Dupuy
+    Junín
+    La Punta
+    San Martín
 La Rioja
+Buenos Aires
+    Trenque Lauquen
+    Junín
+    Tandil
+    La Matanza
+    Mercedes
+    Bahía Blanca 
+    Mar del Plata
+    Quilmes
+    Azul
+    Zárate
+    Lomas de Zamora
+    Morón
+    La Plata
+    San Martín
+    San Nicolás
+    San Isidro
+    Necochea
+    Pergamino
+    Dolores
+Mendoza
+    Mendoza
+    General Alvear
+    Godoy Cruz
+    Guaymallén
+    Junín
+    La Paz
+    Las Heras
+    Lavalle
+    Luján de Cuyo
+    Maipú
+    Malargüe
+    Rivadavia
+    San Carlos
+    San Martín
+    San Rafael
+    Santa Rosa
+    Tunuyán
+    Tupungato
+Tucuman
+Tierra del fuego
+La Pampa
+    Santa Rosa
+Jujuy
+Entre Rios
+Chubut
+Catamarca
+Neuquén
+Rio Negro
+Santiago del Estero
