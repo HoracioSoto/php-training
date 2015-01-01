@@ -14,3 +14,16 @@ Formosa
 Misiones
     Posadas
     Rio Iguazu
+Cordoba
+    Cordoba
+    Jesus Maria
+    Villa Maria
+    Rio Cuarto
+Santa Fe
+    Santa Fe
+    Rosario
+    Reconquista
+Salta
+    Salta
+Santa Cruz
+La Rioja

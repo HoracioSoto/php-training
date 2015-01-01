@@ -34,7 +34,7 @@ function fileToArray($file)
     while (!feof($file)) {
         $line = fgets($file);
         if (substr($line, 0, 4) == '    ') {
-            $provinces[$province][] = $line;
+            $provinces[$province][] = trim($line);
         } else {
             $province = trim($line);
             $provinces[$province] = array();
