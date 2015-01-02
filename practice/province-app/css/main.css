@@ -1,4 +1,7 @@
 /* Province-app */
+body{
+    text-align: center;
+}
 .searchbox {
     width: auto;
     height: auto;
@@ -12,7 +15,15 @@
 }
 .content {
     text-align: center;
+
 }
 .cities, .provinces {
-    display: inline-block;
+    position: relative;
+    float: left;
+    width: 200px;
+    min-height: 100px;
+    background: #31b0d5;
+}
+h2 {
+    font-family: sans-serif;
 }

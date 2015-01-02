@@ -3,7 +3,7 @@
     <head>
         <title>Province App - Informatorio 2014</title>
         <link rel="stylesheet" type="text/css" href="css/main.css">
-        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+        
     </head>
     <body>
         <div class="container">
@@ -13,17 +13,17 @@
             </div>
             <div class="content">
                 <div class="provinces">
-                    <ul>
-                        <li>Lista</li>
-                    </ul>
+                    <h2>PROVINCES</h2>
+                    <ul></ul>
                 </div>
                 <div class="cities">
-                    <ul>
-                        <li>cities</li>
-                    </ul>
+                    <h2>CITIES</h2>
+                    <ul></ul>
                 </div>
             </div>
         </div>
+        <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
+        <script src="js/bootstrap.min.js"></script>
     </body>
 </html>
