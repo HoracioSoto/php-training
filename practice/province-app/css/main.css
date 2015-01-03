@@ -16,9 +16,6 @@ body{
     text-align: center;
 }
 
-#inputsearch {
-    width: 200px;
-}
 .content {
     width: 50%;
     height: 100%;
@@ -27,7 +24,7 @@ body{
 }
 .cities, .provinces {
     float: left;
-    width: 400px;
+    width: 250px;
     min-height: 100px;
 }
 h3 {
@@ -35,4 +32,7 @@ h3 {
 }
 button {
     text-align: center;
+}
+.cities li, .provinces li {
+    text-transform:capitalize;
 }

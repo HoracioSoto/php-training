@@ -25,7 +25,7 @@ $(document).ready(function () {
             ;
         })
         function updateProvinces(province, value) {
-            $('.provinces ul').append('<li data-id= "' + province.id + '" class="list-group-item">' + '<b>' + (province.name).substr(0, value.length) + '</b>' + (province.name).substr(value.length) + '</li>');
+            $('.provinces ul').append('<li data-id= "' + province.id + '" class="list-group-item">' + '<b>' + value + '</b>' + (province.name).substr(value.length) + '</li>');
         }
         $('.provinces ul').on('click', 'li', function () {
             var id = $(this).data('id');
